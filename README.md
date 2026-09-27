@@ -65,8 +65,20 @@ pip install -r requirements.txt
 
 ### 4. Run the application
 
+**Option A: Using the run script (Quick Start)**
 ```bash
+python run.py
+```
+
+**Option B: Install as package (Recommended for development)**
+```bash
+pip install -e .
 python -m spendwise
+```
+
+Or use the command:
+```bash
+spendwise
 ```
 
 ## Usage
