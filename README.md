@@ -39,8 +39,8 @@ A lightweight, offline-first desktop application for tracking personal expenses 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/SpendWise.git
-cd SpendWise
+git clone https://github.com/Syedk07/Expense-Tracker-using-python.git
+cd Expense-Tracker-using-python
 ```
 
 ### 2. Create a virtual environment
